@@ -180,6 +180,5 @@ TSWLatexianTemp*
 *~[0-9]*
 
 
-
-.idea
 node_modules
+.idea
